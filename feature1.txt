@@ -1,1 +1,3 @@
 new line of new file called feature-1file.txt
+add a new second line in feature1.txt
+
